@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">Hello World 🖖 <br>Меня зовут Денис! <br> </h1></h1>
+<h1 align="center">Hello World 🖖 <br>My name is Denis! <br> </h1></h1>
 
 ###
 
@@ -22,23 +22,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">🐧Я увлечён фронтенд-разработкой. Меня всегда радовали красиво и функционально оформленные сайты/приложения.
-Ещё до того как начал изучать данную тему я всегда обращал внимание на недостаточно хорошо / функционально оформленные сайты с точки зрения своего пользовательского опыта, и того как сайт мог бы выглядеть.</p>
+<p align="left">🐧I am passionate about frontend development. Beautifully and functionally designed websites/applications have always excited me. Even before I started learning about web development, I would often notice when sites weren’t as well-designed or functional from a user experience standpoint and think about how they could be improved.</p>
 
-<p align="left">⚖️Несколько лет я работал юристом. Однако, по прошествии лет я понял, что для меня юриспруденция скорее средство (набор инструментов, которые во многом упрощают жизнь), нежели то, чем бы я хотел заниматься всю свою жизнь. Мне не хватало некоторого творчества и гибкости в профессии. Так я начал думать, что мне действительно интересно, и чем бы я хотел заниматься. </p>
+<p align="left">⚖️ For several years, I worked as a lawyer. However, over time I realized that law was more of a tool for me (a set of instruments that simplify life in many ways) rather than something I wanted to dedicate my entire life to. I felt a lack of creativity and flexibility in the profession. That’s when I started thinking about what truly interests me and what I would like to pursue. </p>
 
-<p align="left">👀При смене профессии я понял, что у меня есть своё представление, о том как могут выглядеть сайты, чтобы это было красиво и какой функционал стоит добавить / убрать.
-Казалось, что мой выбор UX / UI дизайнер. Однако, при более подробном изучении IT-профессий я понял, что мне доставляет удовольствие писать код, и что я больше хочу развиваться именно в направлении разработки.</p>
+<p align="left">👀 While transitioning careers, I realized I had my own vision of how websites could look beautiful and what functionality could be added or removed. Initially, I thought my choice might be UX/UI design. However, after exploring different IT professions in more detail, I found that coding gave me more satisfaction, and I decided to focus on development.</p>
 
-<p align="left">👨‍🎓Я успешно завершил курс Веб-разработчика в Яндекс Практикуме и получил диплом о профессиональной переподготовке. Однако, на этом я не останавливаюсь и продолжаю совершенствовать свои навыки.</p>
+<p align="left">👨‍🎓 I started by learning the basics on my own, but soon realized I needed a more structured approach and feedback on my code. That’s why I decided to enroll in the Web Development course at Yandex.Practicum, where I received a diploma in professional retraining. However, I don’t plan to stop there and continue to improve my skills.</p>
 
-<p align="left">📷В свободное время я увлекаюсь фотографией и автогонками, в основном это Формула-1.</p>
+<p align="left">📷 In my free time, I enjoy photography and motorsports, especially Formula 1.</p>
 
-<p align="left">🌎Я родился и вырос в Санкт-Петербурге. Сейчас проживаю в Казахстане. Я открыт к исследованию мира, к переезду в другие страны. Я очень люблю путешествовать. Посетил 29 стран и понимаю как много я ещё не видел.</p>
+<p align="left">🌎I was born and raised in Saint Petersburg, Russia, and currently live in Kazakhstan. I’m open to exploring the world and relocating to other countries. I love traveling and have visited 29 countries, but I know there’s still so much more to see.</p>
 
 ###
 
